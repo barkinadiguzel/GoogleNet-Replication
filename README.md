@@ -51,6 +51,9 @@ GoogleNet-Replication/
 │   │
 │   └── config.py                  # Hyperparameters: channels, kernel sizes etc.
 │
+├── images/
+│   ├── figmix.jpg
+│   └── figmix1.jpg
 │
 ├── requirements.txt
 └── README.md
